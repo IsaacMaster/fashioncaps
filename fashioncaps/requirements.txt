@@ -1,0 +1,3 @@
+tensorboardX
+tensorflow
+tqdm
